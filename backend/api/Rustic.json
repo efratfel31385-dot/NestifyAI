@@ -1,0 +1,212 @@
+{
+  "style_name": "Rustic",
+  "id": 4,
+  "overall_vibe": "Cozy, weathered, organic, and traditional-authentic.",
+  "color_palette": {
+    "Preferred": [
+      "deep_brown",
+      "warm_cedar",
+      "stone_gray",
+      "forest_green",
+      "green",
+      "gray",
+      "brown"
+    ],
+    "Acceptable": [
+      "beige",
+      "cream",
+      "clay_red",
+      "red"
+    ],
+    "Avoid": [
+      "synthetic_neons",
+      "high_gloss_silver",
+      "electric_blue",
+      "silver",
+      "blue"
+    ],
+    "primary_hex": [
+      "#5C4033",
+      "#8B5A2B",
+      "#D2B48C"
+    ],
+    "primary_names": [
+      "dark_brown",
+      "wood_brown",
+      "beige"
+    ],
+    "accents_hex": [
+      "#2E8B57",
+      "#A0522D",
+      "#CD853F"
+    ],
+    "accents_names": [
+      "forest_green",
+      "clay_red",
+      "peru_brown"
+    ]
+  },
+  "materials": {
+    "Preferred": [
+      "natural_logs",
+      "rough_hewn_wood",
+      "fieldstone",
+      "wrought_iron",
+      "burlap",
+      "wood",
+      "fabric",
+      "stone",
+      "iron"
+    ],
+    "Acceptable": [
+      "matte_pottery",
+      "heavy_wool",
+      "distressed_copper",
+      "wool",
+      "ceramic",
+      "copper"
+    ],
+    "Avoid": [
+      "acrylic_plastic",
+      "polished_chrome",
+      "sleek_glass_surfaces",
+      "glossy_polyurethane",
+      "metal",
+      "plastic",
+      "glass"
+    ]
+  },
+  "textiles": {
+    "Preferred": [
+      "plaid",
+      "buffalo_check",
+      "heavy_wool_texture",
+      "solid",
+      "animal_hide",
+      "textured",
+      "checkered"
+    ],
+    "Acceptable": [
+      "simple_stripes",
+      "quilted_patterns",
+      "striped",
+      "textured"
+    ],
+    "Avoid": [
+      "complex_abstract_geometric",
+      "polka_dots",
+      "silk",
+      "satin",
+      "glossy_synthetics",
+      "geometric",
+      "patterned"
+    ]
+  },
+  "furniture_characteristics": {
+    "Preferred": [
+      "heavy",
+      "chunky_legs",
+      "handcrafted_look",
+      "natural_organic_edges",
+      "robust",
+      "square",
+      "organic",
+      "rectangular"
+    ],
+    "Acceptable": [
+      "traditional_structure",
+      "large_scale",
+      "soft_edges"
+    ],
+    "Avoid": [
+      "ultra_thin_minimalist_metal",
+      "sleek_futuristic",
+      "plastic_molded_shapes",
+      "sharp_edges",
+      "geometric",
+      "angular",
+      "straight"
+    ]
+  },
+  "lighting": {
+    "Preferred": [
+      "lantern_style_fixtures",
+      "warm_yellow",
+      "iron_chandelier"
+    ],
+    "Acceptable": [
+      "antler_chandeliers",
+      "mason_jar_pendants"
+    ],
+    "Avoid": [
+      "bright_cold_led",
+      "commercial_grade_panels",
+      "recessed_led_strips"
+    ]
+  },
+  "accessories": {
+    "Preferred": [
+      "deer_antlers",
+      "vintage_wooden_crates",
+      "wrought_iron_tools"
+    ],
+    "Acceptable": [
+      "handmade_pottery",
+      "woven_textile_throws"
+    ],
+    "Avoid": [
+      "minimalist_geometric_sculptures",
+      "high_tech_gadgets_exposed",
+      "abstract_neon_art"
+    ]
+  },
+  "wall_and_floor": {
+    "Preferred": [
+      "stone_fireplace_wall",
+      "heavy_timber_beams",
+      "distressed_wide_plank_wood"
+    ],
+    "Acceptable": [
+      "textured_beige_paint",
+      "slate_stone_tiles"
+    ],
+    "Avoid": [
+      "seamless_modern_white_walls",
+      "glossy_ceramic_tiles",
+      "geometric_wallpaper"
+    ]
+  },
+  "peri_vels_rules": {
+    "color_mass_distribution": {
+      "primary_target_pct": 60,
+      "primary_colors": [
+        "deep_brown",
+        "warm_cedar",
+        "wood_brown"
+      ],
+      "secondary_target_pct": 30,
+      "secondary_colors": [
+        "beige",
+        "cream",
+        "stone_gray"
+      ],
+      "accent_target_pct": 10,
+      "accent_colors": [
+        "forest_green",
+        "clay_red"
+      ]
+    },
+    "layered_lighting_L2": {
+      "layer_1": "wrought_iron_central_fixtures",
+      "layer_2": "hearth_glow_and_table_lanterns",
+      "temperature_k": 2400
+    },
+    "five_pillars_synthesis": [
+      "weathered_wood",
+      "stone_elements",
+      "sturdy_craftsmanship",
+      "warm_earthy_tones",
+      "cozy_textiles"
+    ]
+  }
+}

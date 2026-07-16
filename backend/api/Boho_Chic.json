@@ -1,0 +1,218 @@
+{
+  "style_name": "Boho Chic",
+  "id": 1,
+  "overall_vibe": "Eclectic, global, layered, and free-spirited.",
+  "color_palette": {
+    "Preferred": [
+      "terracotta",
+      "mustard_yellow",
+      "olive_green",
+      "rust",
+      "green",
+      "yellow",
+      "red",
+      "orange"
+    ],
+    "Acceptable": [
+      "warm_cream",
+      "sand_beige",
+      "teal",
+      "cream",
+      "beige"
+    ],
+    "Avoid": [
+      "monochrome_gray",
+      "stark_white",
+      "pink",
+      "white",
+      "gray"
+    ],
+    "primary_hex": [
+      "#D2B48C",
+      "#C19A6B",
+      "#E6C280"
+    ],
+    "primary_names": [
+      "tan",
+      "camel",
+      "warm_sand"
+    ],
+    "accents_hex": [
+      "#E2725B",
+      "#E3A857",
+      "#8A9A86"
+    ],
+    "accents_names": [
+      "terracotta",
+      "mustard",
+      "sage"
+    ]
+  },
+  "materials": {
+    "Preferred": [
+      "rattan",
+      "wicker",
+      "bamboo",
+      "macrame",
+      "jute",
+      "wood",
+      "fabric"
+    ],
+    "Acceptable": [
+      "distressed_wood",
+      "terracotta_pottery",
+      "hammered_brass",
+      "wood",
+      "ceramic",
+      "brass"
+    ],
+    "Avoid": [
+      "polished_chrome",
+      "stainless_steel",
+      "glossy_plastic",
+      "tempered_glass",
+      "metal",
+      "steel",
+      "plastic",
+      "glass"
+    ]
+  },
+  "textiles": {
+    "Preferred": [
+      "fringe",
+      "crochet",
+      "tribal_patterns",
+      "moroccan_weave",
+      "tufted_fabrics",
+      "geometric",
+      "textured"
+    ],
+    "Acceptable": [
+      "floral_patterns",
+      "patchwork",
+      "linen_textures",
+      "floral",
+      "patterned",
+      "textured"
+    ],
+    "Avoid": [
+      "stark_solid_leather",
+      "glossy_silk",
+      "plain_synthetic_polyester",
+      "solid",
+      "plain"
+    ]
+  },
+  "furniture_characteristics": {
+    "Preferred": [
+      "round",
+      "curved",
+      "low_profile",
+      "relaxed",
+      "vintage",
+      "hanging_chairs",
+      "organic",
+      "rectangular"
+    ],
+    "Acceptable": [
+      "asymmetric_shapes",
+      "organic_wood_contours",
+      "organic"
+    ],
+    "Avoid": [
+      "sharp_edges",
+      "rigid_square",
+      "strictly_straight_lines",
+      "office_like_structures",
+      "square",
+      "angular",
+      "straight"
+    ]
+  },
+  "lighting": {
+    "Preferred": [
+      "woven_rattan_pendant",
+      "warm_yellow",
+      "fairy_lights",
+      "lanterns"
+    ],
+    "Acceptable": [
+      "brass_floor_lamps",
+      "moroccan_style_fixtures"
+    ],
+    "Avoid": [
+      "cold_white_led",
+      "track_lighting",
+      "clinical_fluorescent_tubes"
+    ]
+  },
+  "accessories": {
+    "Preferred": [
+      "macrame_wall_hangings",
+      "potted_plants",
+      "woven_baskets",
+      "vintage_rugs"
+    ],
+    "Acceptable": [
+      "travel_souvenirs",
+      "stacked_books",
+      "handmade_ceramics"
+    ],
+    "Avoid": [
+      "minimalist_sculptures",
+      "stark_abstract_art",
+      "matching_factory_sets"
+    ]
+  },
+  "wall_and_floor": {
+    "Preferred": [
+      "textured_plaster_wall",
+      "warm_jute_rugs",
+      "terracotta_tiles"
+    ],
+    "Acceptable": [
+      "warm_beige_walls",
+      "exposed_rustic_beams"
+    ],
+    "Avoid": [
+      "polished_epoxy",
+      "black_glossy_tiles",
+      "stark_white_drywall"
+    ]
+  },
+  "peri_vels_rules": {
+    "color_mass_distribution": {
+      "primary_target_pct": 50,
+      "primary_colors": [
+        "warm_cream",
+        "sand_beige",
+        "tan"
+      ],
+      "secondary_target_pct": 30,
+      "secondary_colors": [
+        "camel",
+        "brown"
+      ],
+      "accent_target_pct": 20,
+      "accent_colors": [
+        "terracotta",
+        "mustard_yellow",
+        "olive_green",
+        "rust",
+        "teal"
+      ]
+    },
+    "layered_lighting_L2": {
+      "layer_1": "ambient_rattan_pendant",
+      "layer_2": "accent_string_lights_and_candles",
+      "temperature_k": 2200
+    },
+    "five_pillars_synthesis": [
+      "natural_textures",
+      "layered_textiles",
+      "earthy_tones",
+      "relaxed_low_furniture",
+      "abundant_greenery"
+    ]
+  }
+}

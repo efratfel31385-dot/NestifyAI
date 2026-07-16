@@ -1,0 +1,207 @@
+{
+  "style_name": "Industrial",
+  "id": 3,
+  "overall_vibe": "Raw, edgy, mechanical, and structurally exposed.",
+  "color_palette": {
+    "Preferred": [
+      "black",
+      "dark_gray",
+      "charcoal",
+      "brick_red",
+      "gray",
+      "red"
+    ],
+    "Acceptable": [
+      "concrete_grey",
+      "dark_brown",
+      "copper_tones",
+      "gray",
+      "brown",
+      "copper"
+    ],
+    "Avoid": [
+      "pastel_pink",
+      "mint_green",
+      "soft_cream",
+      "green",
+      "cream",
+      "pink"
+    ],
+    "primary_hex": [
+      "#333333",
+      "#555555",
+      "#A9A9A9"
+    ],
+    "primary_names": [
+      "charcoal",
+      "dark_grey",
+      "slate"
+    ],
+    "accents_hex": [
+      "#8B0000",
+      "#B87333",
+      "#CD7F32"
+    ],
+    "accents_names": [
+      "rust_red",
+      "copper",
+      "bronze"
+    ]
+  },
+  "materials": {
+    "Preferred": [
+      "wrought_iron",
+      "steel",
+      "exposed_brick",
+      "concrete",
+      "reclaimed_wood",
+      "iron",
+      "wood",
+      "stone"
+    ],
+    "Acceptable": [
+      "heavy_leather",
+      "copper_pipes",
+      "distressed_metal",
+      "copper",
+      "metal",
+      "leather"
+    ],
+    "Avoid": [
+      "delicate_silk",
+      "rattan",
+      "glossy_lacquered_surfaces",
+      "velvet",
+      "silk",
+      "plastic"
+    ]
+  },
+  "textiles": {
+    "Preferred": [
+      "solid",
+      "heavy_canvas",
+      "distressed_leather",
+      "plaid",
+      "textured",
+      "plain"
+    ],
+    "Acceptable": [
+      "coarse_linen",
+      "dark_denim_textures",
+      "textured"
+    ],
+    "Avoid": [
+      "floral_prints",
+      "shiny_satin",
+      "ruffles",
+      "boho_tassels",
+      "lace"
+    ]
+  },
+  "furniture_characteristics": {
+    "Preferred": [
+      "boxy",
+      "heavy_structure",
+      "straight_lines",
+      "square",
+      "rectangle",
+      "sharp_edges",
+      "rectangular",
+      "angular",
+      "straight"
+    ],
+    "Acceptable": [
+      "exposed_hardware",
+      "metal_mesh_frames",
+      "mechanical_wheels"
+    ],
+    "Avoid": [
+      "delicate_curves",
+      "ornate_carvings",
+      "plush_rounded_shapes",
+      "round",
+      "curved"
+    ]
+  },
+  "lighting": {
+    "Preferred": [
+      "edison_bulbs",
+      "exposed_track_lighting",
+      "metal_cage_pendants"
+    ],
+    "Acceptable": [
+      "dark_brass_spotlights",
+      "industrial_floor_lamps"
+    ],
+    "Avoid": [
+      "glamorous_crystal_chandeliers",
+      "fabric_lampshades",
+      "soft_pastel_fixtures"
+    ]
+  },
+  "accessories": {
+    "Preferred": [
+      "vintage_gears",
+      "large_factory_clocks",
+      "metal_pipes_shelving"
+    ],
+    "Acceptable": [
+      "black_iron_frames",
+      "monochrome_blueprints"
+    ],
+    "Avoid": [
+      "porcelain_figurines",
+      "gold_leaf_mirrors",
+      "cluttered_mason_jars"
+    ]
+  },
+  "wall_and_floor": {
+    "Preferred": [
+      "exposed_brick_wall",
+      "raw_concrete_floor",
+      "cement_plaster"
+    ],
+    "Acceptable": [
+      "dark_wood_planks",
+      "industrial_grey_tiles"
+    ],
+    "Avoid": [
+      "white_elegant_wallpaper",
+      "plush_white_carpeting",
+      "pastel_painted_drywall"
+    ]
+  },
+  "peri_vels_rules": {
+    "color_mass_distribution": {
+      "primary_target_pct": 60,
+      "primary_colors": [
+        "dark_gray",
+        "charcoal",
+        "concrete_grey"
+      ],
+      "secondary_target_pct": 30,
+      "secondary_colors": [
+        "black",
+        "dark_brown"
+      ],
+      "accent_target_pct": 10,
+      "accent_colors": [
+        "brick_red",
+        "rust_copper",
+        "copper_tones"
+      ]
+    },
+    "layered_lighting_L2": {
+      "layer_1": "exposed_track_or_conduit_lighting",
+      "layer_2": "low_hung_edison_pendants",
+      "temperature_k": 2500
+    },
+    "five_pillars_synthesis": [
+      "exposed_brick_concrete",
+      "raw_metals",
+      "weathered_wood",
+      "utilitarian_furniture",
+      "factory_lighting"
+    ]
+  }
+}

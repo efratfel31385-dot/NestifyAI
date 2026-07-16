@@ -1,0 +1,182 @@
+{
+  "style_name": "Modern",
+  "id": 2,
+  "overall_vibe": "Sleek, uncluttered, structural, and forward-thinking.",
+  "color_palette": {
+    "Preferred": [
+      "white",
+      "black",
+      "gray"
+    ],
+    "Acceptable": [
+      "beige",
+      "cream"
+    ],
+    "Avoid": [
+      "red",
+      "blue",
+      "yellow"
+    ],
+    "primary_hex": [
+      "#FFFFFF",
+      "#000000",
+      "#808080"
+    ],
+    "primary_names": [
+      "white",
+      "black",
+      "gray"
+    ],
+    "accents_hex": [
+      "#FF0000",
+      "#0000FF",
+      "#FFFF00"
+    ],
+    "accents_names": [
+      "red",
+      "blue",
+      "yellow"
+    ]
+  },
+  "materials": {
+    "Preferred": [
+      "glass",
+      "steel",
+      "chrome"
+    ],
+    "Acceptable": [
+      "molded_plywood",
+      "metal",
+      "wood"
+    ],
+    "Avoid": [
+      "carved_wood",
+      "distressed_wood",
+      "rough_stone",
+      "wood"
+    ]
+  },
+  "textiles": {
+    "Preferred": [
+      "leather",
+      "microfiber",
+      "solid"
+    ],
+    "Acceptable": [
+      "flat_weaves"
+    ],
+    "Avoid": [
+      "ruffles",
+      "fringe",
+      "crochet",
+      "floral_patterns",
+      "floral",
+      "textured"
+    ]
+  },
+  "furniture_characteristics": {
+    "Preferred": [
+      "geometric_forms",
+      "low_profile",
+      "smooth_surfaces",
+      "square",
+      "rectangle",
+      "rectangular",
+      "geometric"
+    ],
+    "Acceptable": [
+      "no_ornamentation"
+    ],
+    "Avoid": [
+      "carved_wood_details",
+      "plush_overstuffed",
+      "tufted_upholstery",
+      "round",
+      "curved"
+    ]
+  },
+  "lighting": {
+    "Preferred": [
+      "track_lighting",
+      "recessed_lighting",
+      "bright",
+      "uniform"
+    ],
+    "Acceptable": [
+      "abstract_floor_lamps",
+      "arc_lamps",
+      "medium"
+    ],
+    "Avoid": [
+      "crystal_chandeliers",
+      "antler_chandeliers",
+      "fabric_shades",
+      "dark"
+    ]
+  },
+  "accessories": {
+    "Preferred": [
+      "abstract_art",
+      "geometric_sculptures"
+    ],
+    "Acceptable": [
+      "minimalist_bowls",
+      "statement_plants"
+    ],
+    "Avoid": [
+      "cluttered_gallery_walls",
+      "porcelain_vases",
+      "vintage_signs",
+      "mason_jars"
+    ]
+  },
+  "wall_and_floor": {
+    "Preferred": [
+      "crisp_white_wall",
+      "polished_concrete",
+      "seamless_epoxy"
+    ],
+    "Acceptable": [
+      "glass_panels",
+      "neutral_tiles",
+      "smooth_light_wood"
+    ],
+    "Avoid": [
+      "floral_wallpapers",
+      "wainscoting",
+      "exposed_brick_wall"
+    ]
+  },
+  "peri_vels_rules": {
+    "color_mass_distribution": {
+      "primary_target_pct": 60,
+      "primary_colors": [
+        "white",
+        "light_gray"
+      ],
+      "secondary_target_pct": 30,
+      "secondary_colors": [
+        "black",
+        "dark_gray"
+      ],
+      "accent_target_pct": 10,
+      "accent_colors": [
+        "red",
+        "blue",
+        "yellow"
+      ]
+    },
+    "layered_lighting_L2": {
+      "layer_1": "recessed_or_track_lighting",
+      "layer_2": "arc_lamps_or_led_strips",
+      "temperature_k": 3000
+    },
+    "five_pillars_synthesis": [
+      "geometric_furniture",
+      "stark_colors",
+      "architectural_lighting",
+      "sleek_textiles",
+      "minimalist_accessories"
+    ]
+  }
+}

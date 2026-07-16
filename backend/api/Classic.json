@@ -1,0 +1,206 @@
+{
+  "style_name": "Classic",
+  "id": 5,
+  "overall_vibe": "Ornate, stately, symmetrical, and historically grounded.",
+  "color_palette": {
+    "Preferred": [
+      "burgundy",
+      "navy_blue",
+      "emerald_green",
+      "gold",
+      "ivory",
+      "green",
+      "white",
+      "red",
+      "navy"
+    ],
+    "Acceptable": [
+      "beige",
+      "champagne",
+      "rich_mahogany_brown"
+    ],
+    "Avoid": [
+      "electric_blue",
+      "neon_colors",
+      "industrial_harsh_grey",
+      "blue"
+    ],
+    "primary_hex": [
+      "#FFFFF0",
+      "#F5F5DC",
+      "#3D2314"
+    ],
+    "primary_names": [
+      "ivory",
+      "warm_beige",
+      "mahogany_brown"
+    ],
+    "accents_hex": [
+      "#800020",
+      "#000080",
+      "#D4AF37"
+    ],
+    "accents_names": [
+      "burgundy",
+      "navy",
+      "antique_gold"
+    ]
+  },
+  "materials": {
+    "Preferred": [
+      "cherry_wood",
+      "mahogany",
+      "marble",
+      "velvet",
+      "silk",
+      "brass",
+      "wood"
+    ],
+    "Acceptable": [
+      "fine_porcelain",
+      "polished_hardwood",
+      "crystal",
+      "wood",
+      "ceramic"
+    ],
+    "Avoid": [
+      "raw_concrete",
+      "corrugated_metal",
+      "plywood",
+      "plastic_resin",
+      "chrome"
+    ]
+  },
+  "textiles": {
+    "Preferred": [
+      "damask",
+      "floral_patterns",
+      "brocade",
+      "tufted_velvet",
+      "classic_stripes",
+      "floral",
+      "striped",
+      "textured"
+    ],
+    "Acceptable": [
+      "embroidered_fabrics",
+      "solid",
+      "satin_finishes"
+    ],
+    "Avoid": [
+      "boho_fringe",
+      "modern_geometric_polygons",
+      "tribal_prints",
+      "burlap",
+      "microfiber"
+    ]
+  },
+  "furniture_characteristics": {
+    "Preferred": [
+      "ornate",
+      "carved_wood_details",
+      "tufted_upholstery",
+      "symmetrical",
+      "curved",
+      "round",
+      "geometric"
+    ],
+    "Acceptable": [
+      "rounded_backs",
+      "scrollwork_armrests",
+      "regal_posture"
+    ],
+    "Avoid": [
+      "sharp_low_profile_cubes",
+      "asymmetrical_futuristic",
+      "sharp_edges",
+      "square",
+      "minimalist",
+      "angular"
+    ]
+  },
+  "lighting": {
+    "Preferred": [
+      "crystal_chandeliers",
+      "symmetrical_wall_sconces",
+      "fabric_shades"
+    ],
+    "Acceptable": [
+      "polished_brass_lamps",
+      "torchieres"
+    ],
+    "Avoid": [
+      "industrial_exposed_track",
+      "neon_signboards",
+      "minimalist_led_bars"
+    ]
+  },
+  "accessories": {
+    "Preferred": [
+      "oil_paintings_gold_frames",
+      "porcelain_vases",
+      "antique_mirrors"
+    ],
+    "Acceptable": [
+      "gilt_clocks",
+      "silver_candelabras"
+    ],
+    "Avoid": [
+      "abstract_art",
+      "vintage_factory_signs",
+      "geometric_sculptures",
+      "mason_jars"
+    ]
+  },
+  "wall_and_floor": {
+    "Preferred": [
+      "polished_marble_floor",
+      "wainscoting",
+      "damask_wallpapers",
+      "dark_walnut_parquet"
+    ],
+    "Acceptable": [
+      "high_end_carpeting",
+      "cream_walls_with_molding"
+    ],
+    "Avoid": [
+      "exposed_raw_brick",
+      "unfinished_concrete",
+      "neon_accent_walls"
+    ]
+  },
+  "peri_vels_rules": {
+    "color_mass_distribution": {
+      "primary_target_pct": 60,
+      "primary_colors": [
+        "ivory",
+        "warm_beige",
+        "champagne"
+      ],
+      "secondary_target_pct": 30,
+      "secondary_colors": [
+        "rich_mahogany_brown",
+        "cherry_wood_tones"
+      ],
+      "accent_target_pct": 10,
+      "accent_colors": [
+        "burgundy",
+        "navy_blue",
+        "emerald_green",
+        "gold"
+      ]
+    },
+    "layered_lighting_L2": {
+      "layer_1": "grand_central_chandelier",
+      "layer_2": "symmetrical_wall_sconces_and_lamps",
+      "temperature_k": 2800
+    },
+    "five_pillars_synthesis": [
+      "antique_woods",
+      "symmetrical_balance",
+      "ornate_carvings",
+      "luxurious_textiles",
+      "stately_decor"
+    ]
+  }
+}

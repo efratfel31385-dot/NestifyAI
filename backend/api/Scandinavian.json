@@ -1,0 +1,193 @@
+{
+  "style_name": "Scandinavian",
+  "id": 6,
+  "overall_vibe": "Light, airy, functional, and deeply connected to nature.",
+  "color_palette": {
+    "Preferred": [
+      "white",
+      "light_gray",
+      "beige",
+      "sage_green",
+      "green",
+      "gray"
+    ],
+    "Acceptable": [
+      "soft_pink",
+      "muted_blue"
+    ],
+    "Avoid": [
+      "neon_orange",
+      "dark_burgundy",
+      "glossy_black"
+    ],
+    "primary_hex": [
+      "#F5F5F5",
+      "#E0E0E0",
+      "#D7CCC8"
+    ],
+    "primary_names": [
+      "off_white",
+      "light_gray",
+      "light_beige"
+    ],
+    "accents_hex": [
+      "#B3ECEC",
+      "#FFD1DC",
+      "#C8E6C9"
+    ],
+    "accents_names": [
+      "pale_blue",
+      "blush_pink",
+      "mint_green"
+    ]
+  },
+  "materials": {
+    "Preferred": [
+      "light_oak",
+      "pine",
+      "ash_wood",
+      "natural_linen",
+      "wood",
+      "linen"
+    ],
+    "Acceptable": [
+      "matte_plastic",
+      "light_metals",
+      "molded_plywood",
+      "metal",
+      "wood",
+      "plastic"
+    ],
+    "Avoid": [
+      "heavy_mahogany",
+      "shiny_gold",
+      "wrought_iron",
+      "dark_walnut",
+      "wood",
+      "gold",
+      "iron"
+    ]
+  },
+  "textiles": {
+    "Preferred": [
+      "wool",
+      "cotton_weaves",
+      "solid",
+      "simple_knit"
+    ],
+    "Acceptable": [
+      "subtle_geometric_patterns",
+      "chevron",
+      "geometric"
+    ],
+    "Avoid": [
+      "heavy_velvet",
+      "glossy_silk",
+      "brocade",
+      "floral_patterns",
+      "floral"
+    ]
+  },
+  "furniture_characteristics": {
+    "Preferred": [
+      "organic_curves",
+      "tapered_legs",
+      "clean_lines",
+      "round",
+      "curved",
+      "organic",
+      "straight"
+    ],
+    "Acceptable": [
+      "minimalist_boxy",
+      "no_ornamentation"
+    ],
+    "Avoid": [
+      "gothic_carvings",
+      "bulky_leather",
+      "heavy_ornate_details",
+      "sharp_edges",
+      "square",
+      "angular"
+    ]
+  },
+  "lighting": {
+    "Preferred": [
+      "natural_light_focus",
+      "bright_white_shades",
+      "paper_lamps"
+    ],
+    "Acceptable": [
+      "minimalist_pendant_lights",
+      "wooden_base_lamps"
+    ],
+    "Avoid": [
+      "heavy_metal_industrial_lamps",
+      "crystal_chandeliers"
+    ]
+  },
+  "accessories": {
+    "Preferred": [
+      "black_and_white_photography",
+      "ceramic_vases",
+      "wooden_objects"
+    ],
+    "Acceptable": [
+      "woven_baskets",
+      "functional_clocks"
+    ],
+    "Avoid": [
+      "ornate_gold_frames",
+      "cluttered_trinkets",
+      "plastic_toys"
+    ]
+  },
+  "wall_and_floor": {
+    "Preferred": [
+      "white_washed_walls",
+      "light_wood_parquet",
+      "bleached_oak_floor"
+    ],
+    "Acceptable": [
+      "soft_gray_walls",
+      "neutral_light_carpets"
+    ],
+    "Avoid": [
+      "dark_marble_floors",
+      "industrial_brick",
+      "heavy_patterned_wallpapers"
+    ]
+  },
+  "peri_vels_rules": {
+    "color_mass_distribution": {
+      "primary_target_pct": 70,
+      "primary_colors": [
+        "white",
+        "off_white"
+      ],
+      "secondary_target_pct": 20,
+      "secondary_colors": [
+        "light_gray",
+        "light_beige"
+      ],
+      "accent_target_pct": 10,
+      "accent_colors": [
+        "sage_green",
+        "pale_blue",
+        "blush_pink"
+      ]
+    },
+    "layered_lighting_L2": {
+      "layer_1": "natural_light_and_pendant_lights",
+      "layer_2": "floor_and_table_lamps",
+      "temperature_k": 2700
+    },
+    "five_pillars_synthesis": [
+      "light_wood",
+      "functional_furniture",
+      "neutral_palette",
+      "organic_forms",
+      "airy_spaces"
+    ]
+  }
+}

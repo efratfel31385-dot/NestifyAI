@@ -1,0 +1,17 @@
+# C#
+bin/
+obj/
+.vs/
+*.user
+appsettings.json
+appsettings.Development.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+*.pt
+*.pth
+
+# Node / React
+node_modules/

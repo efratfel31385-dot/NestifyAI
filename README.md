@@ -90,3 +90,16 @@ cd frontend && npm start
 - Support more room types and purchase sources
 - Factor room layout into recommendations
 - Automated tests
+## Screenshots
+
+### Studio Workspace
+![Studio Workspace](docs/screenshots/workspace.png)
+
+### Login
+![Login](docs/screenshots/login.png)
+
+### AI Design Recommendations
+![AI Design Recommendations](docs/screenshots/ai-analysis.png)
+
+### Recommended Replacements
+![Recommended Replacements](docs/screenshots/recommendations.png)

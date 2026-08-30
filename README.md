@@ -103,3 +103,15 @@ cd frontend && npm start
 
 ### Recommended Replacements
 ![Recommended Replacements](docs/screenshots/recommendations.png)
+
+## What I Learned
+
+Building Nestify.ai gave me hands-on experience with:
+
+- Designing and integrating a multi-stage AI pipeline (object detection → captioning → language understanding → optimization → generation)
+- Training and evaluating real models (Faster R-CNN, DistilBERT) and measuring their performance
+- Connecting a Python/PyTorch model-serving layer to a C#/ASP.NET Core backend
+- Designing a relational database schema and persistence layer with Entity Framework Core and PostgreSQL
+- Integrating multiple external third-party APIs (Amazon/Rainforest, SerpWow) with fallback handling
+- Debugging full-stack issues across frontend, backend, and AI service boundaries
+- Structuring a real-world project for clarity, documentation, and future maintainability
